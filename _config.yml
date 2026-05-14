@@ -114,7 +114,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Locanda della<br>Maison Verte"
+#  name             : "Locanda della<br>Maison Verte"
+  name: 'Locanda della<br><a href="https://maisonvertehotel.com">Maison Verte</a>'
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Via Rossi, 34<br>10060 Cantalupa TO"
