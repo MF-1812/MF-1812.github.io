@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" # "default" "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "18 Dicembre 2026"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -117,7 +117,7 @@ author:
   name             : "Martina & Federico"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : "Locanda della Maison Verte, Via Rossi, 34, 10060 Cantalupa TO"
+  location         : "Locanda della Maison Verte\nVia Rossi, 34\n10060 Cantalupa TO"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
