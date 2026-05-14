@@ -115,10 +115,10 @@ analytics:
 # Site Author
 author:
 #  name             : "Locanda della<br>Maison Verte"
-  name: '<a href="https://maisonvertehotel.com">Locanda della<br>Maison Verte</a>'
+  name             : '<a href="https://maisonvertehotel.com">Locanda della<br>Maison Verte</a>'
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : "Via Rossi, 34<br>10060 Cantalupa TO<br><br>18 Dicembre 2026<br>h 11.30"
+  location         : '<a href="https://www.google.com/maps/place/La+Locanda+della+Maison+Verte/@44.9412081,7.3464301,17z/data=!3m1!5s0x47883ae4bedc3cef:0x6392ee0f94892817!4m18!1m8!3m7!1s0x47883ae4ca5aaaab:0x20d9dd5a7f6d86cc!2sVia+Rossi,+34,+10060+Cantalupa+TO,+Italia!3b1!8m2!3d44.9412081!4d7.3464301!16s%2Fg%2F11xs_79q6d!3m8!1s0x47883ae4b0d2dc07:0x3cc7419054c81292!5m2!4m1!1i2!8m2!3d44.9402778!4d7.3466667!16s%2Fg%2F1tf34vg3?entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D">Via Rossi, 34<br>10060 Cantalupa TO</a>'
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
