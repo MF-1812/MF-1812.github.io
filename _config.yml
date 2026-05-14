@@ -114,10 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Locanda della Maison Verte"
+#  name             : "Locanda della Maison Verte"
+  name             : "Locanda della<br>Maison Verte"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : "Via Rossi, 34\n10060 Cantalupa TO"
+  location         : "Via Rossi, 34, 10060 Cantalupa TO"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
