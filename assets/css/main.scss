@@ -5,9 +5,16 @@ search: false
 
 @charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+// change all text to Allura font
+body {
+  font-family: 'Allura', cursive !important;
+}
 
 // change title font and color
 .site-title {
